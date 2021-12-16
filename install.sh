@@ -143,6 +143,7 @@ install_x-ui() {
     echo -e " x-ui update       - Cập nhật bảng điều khiển x-ui"
     echo -e " x-ui install      - Cài đặt bảng điều khiển x-ui"
     echo -e " x-ui uninstall    - Gỡ cài đặt bảng điều khiển x-ui"
+    echo -e " Quang Vinh ---------------------------------------"
     echo -e "----------------------------------------------"
 }
 
